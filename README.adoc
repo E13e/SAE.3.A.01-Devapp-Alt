@@ -1,17 +1,7 @@
 = SAÉ 3.A.01 Devapp Alternants
 
-= Titre du Document
 :toc:
-: toc-title : Sommaire
-
-== Section 1
-Contenu de la section 1
-
-== Section 2
-Contenu de la section 2
-
-=== Sous-section 2.1
-Contenu de la sous-section
+:toc-title: Sommaire
 
 == Groupe
 

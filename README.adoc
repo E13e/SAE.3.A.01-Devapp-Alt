@@ -1,0 +1,32 @@
+= SAÉ 3.A.01 Devapp Alternants
+
+= Titre du Document
+:toc:
+: toc-title: Sommaire
+
+== Section 1
+Contenu de la section 1
+
+== Section 2
+Contenu de la section 2
+
+=== Sous-section 2.1
+Contenu de la sous-section
+
+== Groupe
+
+Projet est réalisé par::
+
+Groupe 3A2 Sujet 2 : Solardege et consommation électrique
+
+- https://github.com/Alexis-Dpnt[Alexis DUPONT]
+- https://github.com/GuillaumeLarroutis[Guillaume LARROUTIS]
+- https://github.com/E13e[Jérémy RATSIMBA]
+
+== Réalisations 
+
+
+== Gestion de projet & Qualité
+
+
+== Évaluations hebdomadaires

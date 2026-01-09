@@ -10,6 +10,8 @@
         const host = "mqtt.iut-blagnac.fr"; // URL du broker
         const port = 8883;        // Port du broker
         const clientId = "client_" + Math.random().toString(36).substr(2, 9); // Identifiant unique du client
+        const username = "student";
+        const password = "client";
 
         function onFailure(message) {
             console.log("Échec de connexion à " + host + " : " + message.errorMessage);
@@ -46,8 +48,11 @@
 
             var options = {
                 timeout: 3,
+                userName: username,
+                password: password,
+                useSSL: true,
                 onSuccess: onConnect,
-                onFailure: onFailure,
+                onFailure: onFailure
             };
 
             mqtt.connect(options);
